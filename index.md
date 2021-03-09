@@ -1,3 +1,6 @@
+____
+lesson-example: "https://carpentries.github.io
+___
 # {{ site.title }}
 ##Description
 {{ site.dscrption }}
